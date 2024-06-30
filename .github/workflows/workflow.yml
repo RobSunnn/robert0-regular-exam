@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  execute-unit-test:
+  execute-unit-tests:
     runs-on: ubuntu-latest
     
     steps:
